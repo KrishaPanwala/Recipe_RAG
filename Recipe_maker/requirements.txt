@@ -1,11 +1,10 @@
-pip --upgrade pip setuptools wheel
 google-generativeai
 pandas
-numpy==1.26.4
-chromadb==0.4.24  # Or try an older version if needed
+numpy
+chromadb==0.4.22
 sentence-transformers
 streamlit
-torch==2.0.1
+torch  # Remove strict versioning
 transformers
 diffusers
 accelerate
