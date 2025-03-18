@@ -1,10 +1,10 @@
 google-generativeai
 pandas
 numpy
-chromadb==0.4.22
+chromadb  
 sentence-transformers
 streamlit
-torch  # Remove strict versioning
+torch
 transformers
 diffusers
 accelerate
