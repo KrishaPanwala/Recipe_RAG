@@ -1,10 +1,10 @@
 google-generativeai
 pandas
-numpy
+numpy==1.26.4
 chromadb==0.4.24  # Or try an older version if needed
 sentence-transformers
 streamlit
-torch
+torch==2.0.1
 transformers
 diffusers
 accelerate
