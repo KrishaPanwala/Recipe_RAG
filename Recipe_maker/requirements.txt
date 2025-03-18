@@ -1,3 +1,4 @@
+pip --upgrade pip setuptools wheel
 google-generativeai
 pandas
 numpy==1.26.4
