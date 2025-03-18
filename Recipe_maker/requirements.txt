@@ -10,3 +10,4 @@ diffusers
 accelerate 
 pillow 
 requests
+sqlite3
